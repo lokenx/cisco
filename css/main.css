@@ -1,0 +1,63 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+body {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6em;
+    font-family: 'Lobster', cursive;
+}
+
+h1 a {
+    color: #333;
+}
+
+h2 {
+    font-size: 3em;
+    font-family: 'Lobster', cursive;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+ul {
+    width: 100%;
+    text-align: left;
+}
+
+li {
+    font-size: 1.3em;
+    list-style-type: none;
+    color: #fff;
+}
+
+li a {
+    color: #fff;
+}
+
+li i {
+
+}
+
+li a:hover {
+    color: #ecf0f1;
+}
+
+.footer {
+    font-family: 'Lobster', cursive;
+    font-size: 1.5em;
+    margin: 2%
+}
+
+.lead {
+    font-size: 1.5em;
+}
+
+.body {
+    background-color: #3498db;
+    color: #fff;
+}
